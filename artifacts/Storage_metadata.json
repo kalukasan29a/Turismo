@@ -6,6 +6,11 @@
 	"output": {
 		"abi": [
 			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "uint256",
@@ -98,11 +103,11 @@
 	},
 	"sources": {
 		"Turismo.sol": {
-			"keccak256": "0xd850f94ec388ab0e9bd31d6e6c7e7052e615f40f3f1c0781b9752bc9a42e60c3",
+			"keccak256": "0x926d23eda5b55e44e5194f2d3637504ed52f39e6ab682860a762db64abc76b07",
 			"license": "GPL-3.0",
 			"urls": [
-				"bzz-raw://a0b6d0f8a39d04e5be863b412f4c8c92eec0b18180db5f6a5e770dc091c9b85b",
-				"dweb:/ipfs/QmSNcTkCbucE7yV7CqhPYTfLHWpj25ugH5pXC1j2qivJyi"
+				"bzz-raw://9bd36be25622306c47984df707f90c56932e92d94ab0587b751f93d4ef4ea032",
+				"dweb:/ipfs/QmdGGrJnHp8SYBEzyH7ofMBFiYFPN99hJP73Uh7csJpZAi"
 			]
 		}
 	},

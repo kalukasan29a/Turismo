@@ -5,6 +5,10 @@ pragma solidity >=0.8.0;
 
 contract Storage {
 
+    constructor() {
+        uint pandra;
+    }
+
     uint public koala;
     uint public derime;
     modifier approve(){
